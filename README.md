@@ -1,4 +1,4 @@
-## Hi, I'm ShawHacks 👋
+## Hi, I'm ShawnHacks 👋
 
 Here are some of my works:
 - **TweetCloner** - [TweetCloner](https://tweetcloner.com) is a creative tool for the X /Twitter. Clone any tweet ideas, rework it into your own fresh, original content.
