@@ -1,4 +1,4 @@
-## Hi, I'm ShawnHacks 👋
+## Hi, I'm Shawn 👋
 
 Here are some of my works:
 - **screentell** - [screentell](https://screentell.com/): a browser-based screen recording and editing tool for fast product demos, tutorials, and social clips—no software install, just record, edit, and export in minutes.
