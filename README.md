@@ -3,6 +3,7 @@
 Here are some of my works:
 - **screentell** - [screentell](https://screentell.com/): a browser-based screen recording and editing tool for fast product demos, tutorials, and social clips—no software install, just record, edit, and export in minutes.
 - **WebsiteScreenshot.online** - [Free online website screenshot tool](https://websitescreenshot.online/). Capture any site instantly in PNG, JPEG, PDF formats. Custom resolutions, mobile & desktop views. No registration!
+- **AITrustlist** - An [AI Directory](https://aitrustlist.com/) Discover The Best AI Tools For Your Tasks
 - **AIHuntlist** - An [AI Directory](https://aihuntlist.com) Discover The Best AI Products and Tools
 - **ImageConverter.dev** - [Image Converter](https://imageconverter.dev/)：Convert images between formats, locally in your browser, no uploads 100% secure and private.
 - **ResizeImae.dev** - [ResizeImae.dev](https://resizeimage.dev/): Free Image Resizer Online.
