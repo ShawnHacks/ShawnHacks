@@ -1,6 +1,8 @@
 ## Hi, I'm Shawn 👋
 
 Here are some of my works:
+- **Palapili** - [Palapili](https://palapili.com/): One workspace for AI image and video creation, from quick generation to ongoing refinement..
+- **TwiFlux** - [TwiFlux](https://twiflux.com/): An all-in-one Twitter/X toolkit for creators to download media, save tweets, convert threads, and repurpose content.
 - **Screentell** - [Screentell](https://screentell.com/): a browser-based screen recording and editing tool for fast product demos, tutorials, and social clips—no software install, just record, edit, and export in minutes.
 - **Art Grid Maker** - [Art Grid Maker](https://artgridmaker.com/)：A precision, privacy-first studio toolkit for artists, printmakers, muralists, and creators.
 - **WebsiteScreenshot.online** - [Free online website screenshot tool](https://websitescreenshot.online/). Capture any site instantly in PNG, JPEG, PDF formats. Custom resolutions, mobile & desktop views. No registration!
